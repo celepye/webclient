@@ -42,7 +42,42 @@
   grid-column: 1 / span 2;
 }
 #home{
-
+  height: 1000px;
+}
+#parallax1{
+  background-image: url(/images/layer_1.png);
+  background-repeat: no-repeat;
+  height: 1000px;
+  width: 100%;
+  position: fixed;
+}
+#parallax2{
+  background-image: url(/images/layer_2.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  position: fixed;
+  height: 1000px;
+}
+#parallax3{
+  background-image: url(/images/layer_3.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  position: fixed;
+  height: 1000px;
+}
+#parallax4{
+  background-image: url(/images/layer_4.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  position: fixed;
+  height: 1000px;
+}
+#parallax5{
+  background-image: url(/images/layer_5.png);
+  background-repeat: no-repeat;
+  width: 100%;
+  position: fixed;
+  height: 1000px;
 }
 #contentwrapper{
   grid-row: 2 / span 1;
